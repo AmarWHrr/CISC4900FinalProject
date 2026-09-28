@@ -6,35 +6,35 @@ The goal of this project is to provide a lightweight, easy-to-use tool for makin
 
 ## Features
 
-* 🎬 **Video Import & Playback**
+* **Video Import & Playback**
 
   * Import video files
   * Play, pause, and navigate through video
   * Frame/time-based seeking
 
-* 📤 **Video Export**
+* **Video Export**
 
   * Export annotated videos
   * Preserve annotations and edits
 
-* 🔍 **Refined Seeking**
+* **Refined Seeking**
 
   * More precise timeline navigation
   * Frame-by-frame seeking
 
-* 📝 **Text Annotations**
+* **Text Annotations**
 
   * Add text directly to video frames
   * Position and edit annotations
 
-* ✏️ **Pen Tool**
+* **Pen Tool**
 
   * Draw directly over video frames
   * Freehand annotations for quick notes and feedback
  
 ## Planned
 
-* 🛠️ **Additional Editing Tools**
+* **Additional Editing Tools**
 
   * Additional features to support pre-production and review workflows
   * More functionality to be determined
@@ -64,7 +64,7 @@ Languages and libraries are subject to change as the program develops.
 
 ## Project Status
 
-🚧 **In Development**
+**In Development**
 
 Video importing and playback are currently being worked on. This project is being developed as part of the **CISC 4900 Final Project**.
 
