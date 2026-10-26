@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amar\\Desktop\\College\\4900\\CISC4900FinalProject\\AASS Temp\\AASS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F4D18D-A6BD-E0C0-0B17-4842213B51CE}|AASS\\AASS.csproj|c:\\users\\amar\\desktop\\college\\4900\\cisc4900finalproject\\aass temp\\aass\\aass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9F4D18D-A6BD-E0C0-0B17-4842213B51CE}|AASS\\AASS.csproj|solutionrelative:aass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Amar\\Desktop\\College\\4900\\CISC4900FinalProject\\AASS Temp\\AASS\\AASS\\Program.cs",
+              "RelativeDocumentMoniker": "AASS\\Program.cs",
+              "ToolTip": "C:\\Users\\Amar\\Desktop\\College\\4900\\CISC4900FinalProject\\AASS Temp\\AASS\\AASS\\Program.cs*",
+              "RelativeToolTip": "AASS\\Program.cs*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T16:33:41.292Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

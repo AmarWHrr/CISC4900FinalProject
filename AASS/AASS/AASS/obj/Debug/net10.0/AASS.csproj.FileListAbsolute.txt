@@ -1,0 +1,5 @@
+C:\Users\Amar\Desktop\College\4900\CISC4900FinalProject\AASS Temp\AASS\AASS\obj\Debug\net10.0\AASS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amar\Desktop\College\4900\CISC4900FinalProject\AASS Temp\AASS\AASS\obj\Debug\net10.0\AASS.AssemblyInfoInputs.cache
+C:\Users\Amar\Desktop\College\4900\CISC4900FinalProject\AASS Temp\AASS\AASS\obj\Debug\net10.0\AASS.AssemblyInfo.cs
+C:\Users\Amar\Desktop\College\4900\CISC4900FinalProject\AASS Temp\AASS\AASS\obj\Debug\net10.0\AASS.csproj.CoreCompileInputs.cache
+C:\Users\Amar\Desktop\College\4900\CISC4900FinalProject\AASS Temp\AASS\AASS\obj\Debug\net10.0\AASS.sourcelink.json
