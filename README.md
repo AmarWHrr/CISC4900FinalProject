@@ -7,12 +7,12 @@ The goal of this project is to provide a lightweight, easy-to-use tool for makin
 ## Features
 
 ### Planned
--  **Video Import & Playback**
+- **Video Import & Playback**
   - Import video files
   - Play, pause, and navigate through video
   - Frame/time-based seeking
 
--  **Video Export**
+- **Video Export**
   - Export annotated videos
   - Preserve annotations and edits
 
@@ -20,11 +20,11 @@ The goal of this project is to provide a lightweight, easy-to-use tool for makin
   - More precise timeline navigation
   - Frame-by-frame seeking
 
--  **Text Annotations**
+- **Text Annotations**
   - Add text directly to video frames
   - Position and edit annotations
 
--  **Pen Tool**
+- **Pen Tool**
   - Draw directly over video frames
   - Freehand annotations for quick notes and feedback
 
